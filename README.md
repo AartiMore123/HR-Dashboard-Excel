@@ -246,11 +246,11 @@ Top skills identified in the workforce include:
 
 
 
-(Add Dashboard Screenshot Here)
 
 
 
-!\[HR Dashboard](dashboard\_screenshot.png)
+
+![HR Dashboard](dashboard_screenshot.png)
 
 
 
